@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A consolatory poem to the Right Honourable John Lord Cutts upon the death of his most accomplish'd lady by N. Tate.</title>
+            <author>Tate, Nahum, 1652-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62862</idno>
+            <idno type="STC">Wing T179A</idno>
+            <idno type="STC">ESTC R26959</idno>
+            <idno type="EEBO-CITATION">09594170</idno>
+            <idno type="OCLC">ocm 09594170</idno>
+            <idno type="VID">43754</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43754)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1342:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A consolatory poem to the Right Honourable John Lord Cutts upon the death of his most accomplish'd lady by N. Tate.</title>
+                  <author>Tate, Nahum, 1652-1715.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.R. for Henry Playford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43754:1"/>
+            <!-- PDF PAGE 102 -->
+            <pb facs="tcp:43754:1"/>
+            <!-- PDF PAGE 102 -->
+            <p>A <hi>Conſolatory Poem</hi> To the Right Honourable John Lord Cutts, UPON THE DEATH OF HIS Moſt Accompliſh'd LADY.</p>
+            <p>By N. TATE, Servant to His MAJESTY.</p>
+            <q>
+               <l>Requies quondàm Speſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> unica Vitae,</l>
+               <l>Nunc Dolor, aeternuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> imo ſub Pectore Luctus.</l>
+               <bibl>Sanaz. Piſc. Ecl. 1.</bibl>
+            </q>
+            <p>
+               <hi>The Second Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi>
+            </p>
+            <p>Printed by <hi>R. R.</hi> for <hi>Henry Playford</hi> in the <hi>Temple-Change.</hi> MDCXC VIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:43754:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <pb n="1" facs="tcp:43754:2"/>
+            <!-- PDF PAGE 103 -->
+            <head>A <hi>Conſolatory Poem</hi> To the Right Honourable <hi>JOHN</hi> Lord <hi>CUTTS,</hi> &amp;c.</head>
+            <lg>
+               <l>STretch'd in a loneſome Vale (where Spring decays,</l>
+               <l>And Nature with Affright her Self ſurveys)</l>
+               <l>
+                  <hi>LYSANDER</hi> grieving lay—the Earth his Bed!</l>
+               <l>Againſt a moſſy Stone he lean'd his Head;</l>
+               <l>His thoughtful Head, that no Repoſe admits:</l>
+               <l>Cloſe at his Feet a ſighing <hi>Cupid</hi> ſits.</l>
+               <l>Wreaths, Chaplets, Trophies, (Once the Hero's Care)</l>
+               <l>With all the glitt'ring Furniture of <hi>War,</hi>
+               </l>
+               <l>To ruſt and tarniſh on the Ground are left,</l>
+               <l>Beneath a Leafleſs Oak by Thunder cleft.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:43754:3"/>
+               <!-- PDF PAGE 104 -->
+               <l>A pompous Cloud deſcending from the Hills</l>
+               <l>Like ſome huge Pageant the broad Valley fills.</l>
+               <l>But now (with Drums and Trumpets awful Sound</l>
+               <l>The vaſt Machine unfolding all around)</l>
+               <l>Behold what glorious Objects are diſclos'd!</l>
+               <l>Celeſtial Forms to Human View expos'd.</l>
+               <l>Lo! firſt the GOD of WAR, with dreadful Grace,</l>
+               <l>As when he thunders on the Plains of <hi>Thrace:</hi>
+               </l>
+               <l>The blue-ey'd <hi>PALLAS</hi> leans upon his Arm,</l>
+               <l>And, fiercely Beautiful, makes Terror Charm.</l>
+               <l>The dusky Groves with ſudden Luſtre ſhine;</l>
+               <l>Hark! how the Pow'rs of Harmony combine—</l>
+               <l>'Tis bright <hi>APOLLO,</hi> with the Tuneful NINE.</l>
+               <l>More Heav'nly Figures ſtill adorn the Plain,</l>
+               <l>The GRACES Mild and VIRTUES Awful Train.</l>
+               <l>
+                  <hi>BRITANNIA</hi> too—On whoſe Majeſtick State</l>
+               <l>PEACE, Wreath'd in Palms, and Lawrell'd CONQUEST wait</l>
+               <l>Theſe Noble Viſitants, by <hi>JOVE</hi>'s Command,</l>
+               <l>Condoling round the Mourning Lover ſtand.</l>
+            </lg>
+            <lg>
+               <l>Thus (ſternly) <hi>MARS</hi> the penſive Silence breaks—</l>
+               <l>(And ſhakes the Ground beneath him while he ſpeaks.)</l>
+            </lg>
+            <lg>
+               <l>O Fate! O diſmal Change! who now can trace</l>
+               <l>One Feature of the Warrior in that Face!</l>
+               <l>Where's now the ſprightly Air, whoſe radiant Light</l>
+               <l>Through Clouds of Smoke diſtinguiſh'd Him in Fight?</l>
+               <l>Or when, in deſp'rate Siege, o'er Bodies pil'd,</l>
+               <l>He brav'd Deſtruction, and on Danger ſmil'd?</l>
+               <l>
+                  <pb n="3" facs="tcp:43754:3"/>
+                  <!-- PDF PAGE 104 -->
+Look up, my Son, ſee how with Skill Divine</l>
+               <l>Emblazon'd on my Shield, your Actions ſhine!</l>
+               <l>Your Hazards, Hardſhips, Honourable Wounds,</l>
+               <l>With wond'rous Art expreſs'd in narrow Bounds.</l>
+               <l>Death in All Shapes, with ſtill Undaunted Brow,</l>
+               <l>You There Confront—And ſhall He Triumph Now?</l>
+               <l>To flitting Winds this killing Sorrow give,</l>
+               <l>And O! for Glory's ſake, conſent to Live.</l>
+               <l>Reſume your Courage, your Heroick Flame,</l>
+               <l>And liſten to the chearful Voice of FAME.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>MINERVA</hi> next with ſtately Mien advanc'd,</l>
+               <l>Her Creſted Plume in waving Luſtre danc'd,</l>
+               <l>And Lightning from her burniſh'd Helmet glanc'd,</l>
+               <l>While thus the Goddeſs—</l>
+            </lg>
+            <lg>
+               <l>—Why this wild Deſpair?</l>
+               <l>For ſhort-liv'd Comfort why ſuch endleſs Care?</l>
+               <l>Nature ſets Limits to the ſwelling Main,</l>
+               <l>And Sorrow's Tide, at Height, ſhould Ebb again.</l>
+               <l>You have the Tribute of your Tears beſtow'd,</l>
+               <l>Whate'er the Husband, Friend, or Lover ow'd.</l>
+               <l>But now, unjuſtly to your ſelf engroſs</l>
+               <l>A Grief that ſhou'd be Publick as the Loſs.</l>
+               <l>For Mortals and Immortals, Earth and Skies,</l>
+               <l>Are Sufferers All when Sacred <hi>Virtue</hi> Dies!</l>
+               <l>That Heav'nly Worth ſhou'd have ſo ſhort a Date,</l>
+               <l>Does juſt Concern in Deities create,</l>
+               <l>Who therefore mourn your Nymph's untimely Fate.</l>
+               <l>
+                  <pb n="4" facs="tcp:43754:4"/>
+                  <!-- PDF PAGE 105 -->
+Large was their Int'reſt in her Precious Life,</l>
+               <l>But I a Daughter loſt, as You a Wife.</l>
+               <l>Said I a Daughter?—Envy knows 'tis True!</l>
+               <l>Not only That—She was my Darling too!</l>
+               <l>To Her my beſt Endowments I aſſign'd,</l>
+               <l>And crown'd her Beauty with as Fair a Mind:</l>
+               <l>That Youth's Allurements cou'd, in Youth, deſpiſe;</l>
+               <l>And only Wiſdom's Sacred Treaſure prize:</l>
+               <l>And reach a Sphere of Knowledge, too ſublime</l>
+               <l>For Vanity's Fantaſtick Wings to climb.</l>
+               <l>Her ſparkling Wit, that like her Eyes cou'd ſhine,</l>
+               <l>Like them did modeſtly its Beams confine.</l>
+               <l>The Bounds of Decency ſhe ne'er tranſgreſs'd;</l>
+               <l>Yet no Reluctance, no Conſtraint expreſs'd.</l>
+               <l>To Caution's Self ſhe gave a pleaſing Air;</l>
+               <l>Reſerv'd, without the ſullen Look of Care.</l>
+               <l>Her temper'd Mirth was like a Morning Ray,</l>
+               <l>All Mildly Bright, and Innocently Gay.</l>
+               <l>Then what her Serious, what her Sacred Hours?</l>
+               <l>The Joy and Wonder of Celeſtial Pow'rs.</l>
+               <l>We charge Thee, Fame, to her Deſerts be juſt,</l>
+               <l>And piouſly perform the mighty Truſt:</l>
+               <l>Let Future Ages read what This admir'd,</l>
+               <l>But never know how <hi>Early</hi> She expir'd!</l>
+               <l>For ſuch Perfections in the Bloom of <hi>Youth,</hi>
+               </l>
+               <l>Will ſtagger Faith, and caſt a Veil on Truth.</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>PALLAS</hi>—next, in Accents ſweetly faint,</l>
+               <l>The God of Verſe addreſs'd his kind Complaint.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:43754:4"/>
+               <!-- PDF PAGE 105 -->
+               <l>When <hi>Mars</hi> and War's lov'd Goddeſs ſue in vain,</l>
+               <l>What can <hi>Apollo,</hi> and his ſlighted Train?</l>
+               <l>Yet, Warrior, call to mind you once were ours:</l>
+               <l>By me conducted to Inſpiring Bow'rs;</l>
+               <l>The Seats of Fancy, and harmonious Pow'rs.</l>
+               <l>To You our <hi>Helicon</hi> was all expos'd;</l>
+               <l>The Fields of Wit, without Reſerve, diſclos'd.</l>
+               <l>But (more enamour'd on advent'rous Fame)</l>
+               <l>For Martial Wreaths you did my Bays diſclaim!</l>
+               <l>Yet (fond her paſt Endearments to renew)</l>
+               <l>The <hi>Daphne,</hi> who from my Embraces flew,</l>
+               <l>To diſtant Camps and Sieges follow'd You.</l>
+               <l>Ah too unkind—yet ſtill the Muſes Care;</l>
+               <l>Who hither from their bliſsful Seats repair,</l>
+               <l>Your Griefs to comfort, or at leaſt to ſhare.</l>
+            </lg>
+            <lg>
+               <l>To ſhare his Griefs indeed, <hi>URANIA</hi> cries,</l>
+               <l>(Nor Deſtiny that wretched Help denies)</l>
+               <l>For what can Numbers or melodious Breath,</l>
+               <l>When Harmony it ſelf's untun'd by Death!</l>
+               <l>When the ſweet Charmer of the Plains is made</l>
+               <l>The Grave's mute Pris'ner, and a ſilent Shade!</l>
+               <l>Tyrannick Fates, ingloriouſly you boaſt</l>
+               <l>A Conqueſt, where you have the Triumph loſt;</l>
+               <l>Your Pride muſt own that with Unvanquiſh'd Mind</l>
+               <l>Life's deareſt Hopes and Bleſſings ſhe reſign'd.</l>
+               <l>Her only Care—No more!—The Laſt Farewell</l>
+               <l>Of Dying LOVE no gentle Muſe may tell!</l>
+               <l>
+                  <pb n="6" facs="tcp:43754:5"/>
+                  <!-- PDF PAGE 106 -->
+Tempeſtuous Winds that Doleful Tale ſhou'd bear</l>
+               <l>Far hence, where only Salvages may hear,</l>
+               <l>Far diſtant from her grieving LOVER's Ear;</l>
+               <l>Let Muſick yet her <hi>Obſequies</hi> deplore;</l>
+               <l>Perform that Task, and then be heard no more.</l>
+            </lg>
+            <lg>
+               <l>Pleas'd with the Hint, <hi>APOLLO</hi> ſtrikes his Lyre,</l>
+               <l>While <hi>Thus,</hi> in Conſort, ſung the Tuneful Quire,</l>
+               <l>As Fancy, Grief, and <hi>Phoebus</hi> did Inſpire.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ye</hi> Nymphs <hi>that in the Groves reſide,</hi>
+               </l>
+               <l>
+                  <hi>Or reap the Meadows early Pride,</hi>
+               </l>
+               <l>
+                  <hi>To deck</hi> LAURINDA<hi>'s Marble, bring</hi>
+               </l>
+               <l>
+                  <hi>The Virgin-Beauties of the Spring.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nereids <hi>offer There your Shells,</hi>
+               </l>
+               <l>
+                  <hi>Diſmantle all your Gawdy Cells,</hi>
+               </l>
+               <l>
+                  <hi>A Tribute to</hi> LAURINDA<hi>'s Shrine;</hi>
+               </l>
+               <l>
+                  <hi>Your Gems alas too dimly ſhine!</hi>
+               </l>
+               <l>
+                  <hi>The Shrine is brighter far than They;</hi>
+               </l>
+               <l>
+                  <hi>Therefore,</hi> Nereids, <hi>ſteal away</hi>
+               </l>
+               <l>
+                  <hi>The Glances of</hi> Aurora<hi>'s Beams,</hi>
+               </l>
+               <l>
+                  <hi>Reflected on the Silver Streams.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Holy Vows and chaſte Deſires</hi>
+               </l>
+               <l>
+                  <hi>Feed the Lamp with</hi> Lambent <hi>Fires;</hi>
+               </l>
+               <l>
+                  <hi>Flames that Shine and never Burn,</hi>
+               </l>
+               <l>
+                  <hi>Shou'd only Crown</hi> LAURINDA<hi>'s</hi> Urn.</l>
+               <l>
+                  <pb n="7" facs="tcp:43754:5"/>
+                  <!-- PDF PAGE 106 -->
+                  <hi>Tuneful Sighs, harmonious Groans,</hi>
+               </l>
+               <l>
+                  <hi>Halcyon-Songs, and Turtle-Moans,</hi>
+               </l>
+               <l>(<hi>Soft as Ev'ning Zephyrs call,</hi>
+               </l>
+               <l>
+                  <hi>Soft as ſhedding Roſes fall</hi>)</l>
+               <l>
+                  <hi>Only from the Bow'r be heard</hi>
+               </l>
+               <l>
+                  <hi>Where</hi> LAURINDA <hi>lies Interr'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lo where</hi> Hymen<hi>'s Self appears!</hi>
+               </l>
+               <l>
+                  <hi>His Nuptial Taper quench'd in Tears,</hi>
+               </l>
+               <l>
+                  <hi>His wither'd Wreath beſide him flung:</hi>
+               </l>
+               <l>
+                  <hi>See</hi> Cupid <hi>too (his Bow unſtrung)</hi>
+               </l>
+               <l>
+                  <hi>Engraving with a broken Dart</hi>
+               </l>
+               <l>
+                  <hi>(In Characters of wondrous Art)</hi>
+               </l>
+               <l>The FAIR, the WISE, the VIRTUOUS, and the YOUNG.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>While thus Enſhrin'd her Aſhes lye,</hi>
+               </l>
+               <l>
+                  <hi>Her deathleſs Spirit mounts the Sky;</hi>
+               </l>
+               <l>
+                  <hi>And is in ſolemn State, preſented There</hi>
+               </l>
+               <l>
+                  <hi>With</hi> Ariadne<hi>'s Crown and</hi> Caſſiopeia<hi>'s Chair.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Too low, your Heav'n's too low, <hi>BRITANNIA</hi> cries,</l>
+               <l>My Saint is tow'r'd where never Muſe cou'd riſe;</l>
+               <l>And bleſt with Raptures, more Divine and True</l>
+               <l>Than your <hi>Apollo</hi> ever gave or knew.</l>
+            </lg>
+            <lg>
+               <l>Ye Realms of Bliſs (enrich'd at <hi>Britain</hi>'s Coſt)</l>
+               <l>While Gainers There, think what on Earth you loſt!</l>
+               <l>Since Death's rude Hand demoliſh'd that fair Shrine,</l>
+               <l>See how the VIRTUES and the GRACES pine.</l>
+               <l>
+                  <pb n="8" facs="tcp:43754:6"/>
+                  <!-- PDF PAGE 107 -->
+O Heav'n-born <hi>Piety!</hi> what tender Breaſt</l>
+               <l>(Like Her's) will make thee now its early Gueſt;</l>
+               <l>That Manſion fall'n, ah! whither wilt thou ſtray?</l>
+               <l>
+                  <hi>Devotion,</hi> who ſhall teach thee now to <hi>Pray?</hi>
+               </l>
+               <l>To whom ſhall Meekneſs for Protection fly?</l>
+               <l>To whom ſhall ſhiv'ring Charity apply?</l>
+               <l>To whom ſhall now her Infant Orphans cry?</l>
+               <l>See how around her Tomb they take their Stands,</l>
+               <l>And wail, and ſob, and wring their little Hands!</l>
+               <l>Yet Fate this Proſpect ſtill of Comfort gives,</l>
+               <l>Their Patroneſs's bright EXAMPLE lives.</l>
+            </lg>
+            <lg>
+               <l>This Thought, <hi>LYSANDER,</hi> ſhou'd your Griefs ſubdue,</l>
+               <l>And make your blaſted Hopes to bloom anew.</l>
+               <l>Celeſtial Pow'rs, when your accompliſh'd Fair</l>
+               <l>They form'd and finiſh'd with ſo nice a Care,</l>
+               <l>To Earth ſo rich a Treaſure never gave</l>
+               <l>For Fates to hoard it in a thankleſs Grave.</l>
+               <l>Believe not then your Beauteous Saint expir'd,</l>
+               <l>But only to her Native Heav'n retir'd.</l>
+               <l>Miſtake not Courteſy for Diſregard;</l>
+               <l>If Life's a Toil, and Death is Life's Reward,</l>
+               <l>Sure, Nature's Tenderneſs is moſt expreſs'd</l>
+               <l>To Thoſe whom Sooneſt ſhe admits to Reſt.</l>
+            </lg>
+            <lg>
+               <l>I know the Genius of exceſſive Grief</l>
+               <l>Is to indulge Deſpair, and ſhun Relief;</l>
+               <l>But Heroes from ſuch Frailty ſhou'd be free;</l>
+               <l>Have Pity on your Self;—at leaſt, on Me.</l>
+               <l>
+                  <pb n="9" facs="tcp:43754:6"/>
+                  <!-- PDF PAGE 107 -->
+Behold how TRIUMPH drops his flagging Wings;</l>
+               <l>Nor PEACE can taſte the Bleſſings that ſhe brings.</l>
+               <l>You waſte <hi>My</hi> Hours in Sorrow, while on You</l>
+               <l>My Senate calls—My Royal Guardian too!</l>
+               <l>In <hi>WILLIAM</hi>'s Name our Viſit is addreſt,</l>
+               <l>His Summons hear, and charm your Griefs to Reſt.</l>
+            </lg>
+            <lg>
+               <l>So Pow'rful, ſo Inſpiring was the Sound</l>
+               <l>Of <hi>WILLIAM</hi>'s Name, it ſhook the Hills around,</l>
+               <l>And rais'd the Mourning Hero from the Ground.</l>
+               <l>Who now the Bright Aſſembly did ſurvey</l>
+               <l>With ſuch ſubmiſſive Looks as ſeem'd to ſay—</l>
+               <l>In Duty He his lov'd Deſpair wou'd quit,</l>
+               <l>And to the Toils of <hi>Joyleſs</hi> Life ſubmit.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>
+               <hi>MIſcellanea Sacra:</hi> Poems upon Divine and Moral Subjects. Collected by <hi>N. Tate.</hi> The Second Edition: With Additions of ſeveral New Poems, and Meditations in Proſe. <hi>Printed for</hi> Henry Playford, <hi>in the</hi> Temple-Exchange, Fleetſtreet.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
